@@ -1,6 +1,6 @@
 /*
  * Tai Smith
- * COMP 360
+ * 
  * October 3, 2020
  *
  * C++ Program that reads in a file and outputs the lexemes and tokens
